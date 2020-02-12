@@ -13,6 +13,7 @@ Follow the following instructions to test and play the game:
 5. Visit http://localhost:5000/ on any browser to open the game
 6. Open a second tab on the browser and visit http://localhost:5000/ on that tab to play or test multiplayer
 
+![Start_Game](https://user-images.githubusercontent.com/60102839/74370105-85069d80-4da4-11ea-9bcf-582c1b809f5e.JPG)
 
 ![Draw](https://user-images.githubusercontent.com/60102839/74369964-4a046a00-4da4-11ea-91ab-6bf60edb606c.JPG)
 
@@ -20,4 +21,3 @@ Follow the following instructions to test and play the game:
 
 ![Player2_Wins](https://user-images.githubusercontent.com/60102839/74370087-7fa95300-4da4-11ea-80c1-24364945c1ae.JPG)
 
-![Start_Game](https://user-images.githubusercontent.com/60102839/74370105-85069d80-4da4-11ea-9bcf-582c1b809f5e.JPG)
