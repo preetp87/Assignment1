@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <title>A Multiplayer Game</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+  </head>
+  <body>
+   <div class = "header">
+    <h1>Rock Paper Scissors</h1>
+   </div> 
+
+  
+   <form id= "send-container">
+    <div class="Scoreboard">
+      <table>
+        <tr>
+          <td><h3 class ="player" id="player1"></h3></td>
+          <td><h3 class ="player" id="player2"></h3></td>
+        </tr>
+        <tr>
+          <td id="user1score"></td>
+          <td id="user2score"></td>
+        </tr>
+      </table>
+    </div>
+  
+    
+    <div class ="results">
+      <h3>Results</h3>
+      <h3 id="Result"></h3>
+    </div>
+
+    <div class = "Choices">
+      <div class= "rpschoice" id="rock">
+        <h2>Rock</h2>
+        <img src="/static/stone.png"alt="rock">
+      </div>
+      <div class= "rpschoice" id ="paper">
+        <h2>Paper</h2>
+        <img src="/static/paper.png"alt="paper">
+      </div>
+      <div class= "rpschoice" id ="scissors">
+        <h2>Scissors</h2>
+        <img src="/static/scissors.png"alt="scissors">
+      </div>
+    </div>
+    <button type="submit" id="send-button">submit</button>
+    <button type="button" id="start-game">StartGame</button>
+  </form>
+
+
+	  <script src="/static/game.js"></script>
+	  
+  </body>
+</html>
