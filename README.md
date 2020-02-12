@@ -17,7 +17,8 @@ Follow the following instructions to test and play the game:
 
 ![Draw](https://user-images.githubusercontent.com/60102839/74369964-4a046a00-4da4-11ea-91ab-6bf60edb606c.JPG)
 
+![Player2_Wins](https://user-images.githubusercontent.com/60102839/74370087-7fa95300-4da4-11ea-80c1-24364945c1ae.JPG)
+
 ![Player1_Wins](https://user-images.githubusercontent.com/60102839/74370079-7ae49f00-4da4-11ea-9b77-336e6457608f.JPG)
 
-![Player2_Wins](https://user-images.githubusercontent.com/60102839/74370087-7fa95300-4da4-11ea-80c1-24364945c1ae.JPG)
 
