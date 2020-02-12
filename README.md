@@ -12,3 +12,6 @@ Follow the following instructions to test and play the game:
     $ node server.js
 5. Visit http://localhost:5000/ on any browser to open the game
 6. Open a second tab on the browser and visit http://localhost:5000/ on that tab to play or test multiplayer
+
+
+![Draw](https://user-images.githubusercontent.com/60102839/74369964-4a046a00-4da4-11ea-91ab-6bf60edb606c.JPG)
